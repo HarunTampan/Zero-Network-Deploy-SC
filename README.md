@@ -1,4 +1,4 @@
-<h2 align=center>Contract Deployment on Zero Network</h2>
+<h2 align=center>Smart Contract Deployment on Zero Network</h2>
 
 ## Contract Deployment
 
